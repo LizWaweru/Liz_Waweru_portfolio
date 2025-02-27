@@ -62,7 +62,18 @@ const Projects = () => {
                 </a>
               </div>   
             </div>
-            {/* New E-commerce Project */}
+            <div className="To-do App">
+              <i className='bx bxs-business'></i>
+              <h3>To-do App</h3>
+              <p>A web application that allows users to manage their calender, organise tasks to their choice.</p>
+              <img src={random} alt="To-do list" />
+              <div className="project-links">
+                <a href="http://your-festival-url.com" className="btn">visit</a>
+                <a href="https://github.com/your-username/film-festival-management" className="github-link">
+                  <i className='bx bxl-github'></i>
+                </a>
+              </div>
+            </div>
             <div className="project-box ecommerce-box">
               <i className='bx bx-store'></i>
               <h3>E-commerce Platform</h3>
@@ -74,7 +85,7 @@ const Projects = () => {
                   <i className='bx bxl-github'></i>
                 </a>
               </div>   
-            </div>
+            </div>      
         </div>
     </div>
   )
