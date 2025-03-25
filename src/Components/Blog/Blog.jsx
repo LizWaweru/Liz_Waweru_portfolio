@@ -11,10 +11,10 @@ const Blog = () => {
       </div>
       <div className="Blog-container">
         <div className="Blog-box">
-          <h3>My journey into Tech</h3>
+          <h3>NumPy: Python Library</h3>
           <div className="Blog-links">
-            <a href="http://your-blog-url.com" className="btn">visit</a>
-            <a href="https://dev.to/liz_decoder/understanding-tuple-unpacking-and-iteration-in-python-a-beginners-guide-42ee">
+            <a href="https://dev.to/liz_decoder/numpy-understanding-numpy-python-library-4pl6" className="btn">Read more</a>
+            <a href="https://dev.to/liz_decoder/numpy-understanding-numpy-python-library-4pl6">
             </a>
           </div>
         </div>
@@ -23,8 +23,8 @@ const Blog = () => {
         <div className="Blog-box">
           <h3>Understanding Tuples</h3>
           <div className="Blog-links">
-            <a href="https://dev.to/liz_decoder/understanding-tuple-unpacking-and-iteration-in-python-a-beginners-guide-42ee" className="btn">visit</a>
-            <a href="https://dev.to/liz_decoder/how-to-build-a-simple-chat-app-with-react-and-websockets-497a">
+            <a href="https://dev.to/liz_decoder/understanding-tuple-unpacking-and-iteration-in-python-a-beginners-guide-42ee" className="btn">Read more</a>
+            <a href="https://dev.to/liz_decoder/understanding-tuple-unpacking-and-iteration-in-python-a-beginners-guide-42ee">
             </a>
           </div>
         </div>
