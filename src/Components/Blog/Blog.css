@@ -76,13 +76,22 @@
   
   @media (max-width: 768px) {
     .Blog {
-      padding: 60px 20px;
+      gap: 50px;
+      margin: 50px 70px;
+      align-items: start;
     }
     
     .Blog-title h1 {
-      font-size: 36px;
+      padding: 0;
+      font-size: 50px;
+      font-weight: 600;
     }
-    
+
+    .Blog-container{
+      grid-template-columns: 1fr;
+      gap: 30px;
+    }
+
     .Blog-box {
       padding: 20px;
     }
