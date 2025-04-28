@@ -7,7 +7,12 @@ const Footer = () => {
         <div className='footer-top'>
             <div className='footer-top-left'>
                 <img src='' alt=""/>
-                <p>I am looking for collaboration in any backend projects with experience in Python, Django, express and mongo db</p>
+                <div className='social-media'>
+                <a href="https://x.com/lizwesh96?t=9YbpI_0X7SnpWpTWNY-Ew&s=09"><i class='bx bxl-twitter'></i></a>
+                <a href="https://facebook.com/example"><i class='bx bxl-facebook'></i></a>
+                <a href="https://instagram.com"><i class='bx bxl-instagram'></i></a>
+                <a href="https://linkedin.com/in/elizabeth-waweru-n"><i class='bx bxl-linkedin'></i></a>
+                </div>
             </div>
         </div>
         <hr />

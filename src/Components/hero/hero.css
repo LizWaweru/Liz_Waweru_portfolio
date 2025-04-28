@@ -35,7 +35,7 @@
     margin-bottom: 10px;
 
 }.hero-connect{
-    padding: 25px 45px;
+    padding: 20px 40px;
     border-radius: 60px;
     background: linear-gradient(264deg, #DF8908 -5.09%, #B415FF);
     cursor: pointer;
@@ -43,13 +43,14 @@
 .hero-connect:hover{
     border: 2px solid #FFF;
 }
-.hero-resume{
-    padding: 25px 75px;
-    border-radius: 50px;
+.hero-resume .btn{
+    padding: 20px 40px;
+    border-radius: 40px;
+    text-decoration: none;
     border: 2px solid #FFF;
     cursor: pointer;
 }
-.hero-resume:hover{
+.hero-resume .btn:hover{
     border-color: #B415FF;
 }
 

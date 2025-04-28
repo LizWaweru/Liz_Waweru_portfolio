@@ -15,7 +15,8 @@
 }
 
 .nav-connect {
-    padding: 20px 40px;
+    padding: 10px 30px;
+    gap: 70px;
     border-radius: 50px;
     background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102.06%);
     font-size: 22px;
