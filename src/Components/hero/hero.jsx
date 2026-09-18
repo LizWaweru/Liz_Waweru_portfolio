@@ -8,11 +8,11 @@ const Hero = () => {
     <div id='home' className='hero'>
         <img src={image} alt="" />
         <h1> Turning Vision Into Reality With Code.</h1>
-        <p>I'm Elizabeth, a <span>Software Developer</span> dedicated to turning ideas into innovative web applications.</p>
+        <p>I'm Elizabeth, a <span>Software Developer</span> dedicated to turning ideas into innovative applications.</p>
         <div className="hero-btns">
             <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Get In Touch</AnchorLink></div>
             <div className="hero-resume">
-              <a href="https://drive.google.com/file/d/14gozFEIg2RfLgj593bYsIrnM76wSMbBl/view?usp=sharing" className="btn">Download CV</a>
+              <a href="https://drive.google.com/file/d/18MeEWACcgTGo1fnHdMjXXbyOzagn-1ld/view?usp=sharing" className="btn">Download CV</a>
             </div>
         </div>
     </div>
